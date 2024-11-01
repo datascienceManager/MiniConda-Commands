@@ -3,3 +3,8 @@ conda create --name ChtBtEngAraSpan
 conda activate ChtBtEngAraSpan
 
 python3 -m pip install numpy
+
+
+=============== if we need to install or upgrade python package in the virtual environment then following command=====
+
+conda create -n rasa_env python=3.8
