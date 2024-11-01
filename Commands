@@ -1,5 +1,9 @@
 conda create --name ChtBtEngAraSpan
 
+======== Listing the conda environment list =====
+
+conda env list
+
 conda activate ChtBtEngAraSpan
 
 python3 -m pip install numpy
